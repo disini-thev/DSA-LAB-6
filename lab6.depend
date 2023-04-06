@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680774852 source:d:\mora academics\yr 1\sem 2 yr 1\dsa\test\lab6\main.cpp
+	<iostream>
+	<cstdlib>
+	<chrono>
+
