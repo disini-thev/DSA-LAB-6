@@ -118,10 +118,10 @@ int main()
 {
 
     //stacks with arrays
-    auto startA= high_resolution_clock::now();
     int size;
     cout<< "Enter the size of the array : "<<endl;
     cin>>size;
+    auto startA= high_resolution_clock::now();
     int arr[size];
     int last=-1;
 
